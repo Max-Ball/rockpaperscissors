@@ -10,7 +10,7 @@ int userScore = 0;
 int compScore = 0;
 int invalidInput = 0;
 
-Console.WriteLine("😀(=^・^=) Welcome to the classic game of Rock, Paper, Scissors. Enter your answer below: (=^・^=)");
+Console.WriteLine("(=^・^=) Welcome to the classic game of Rock, Paper, Scissors. Enter your answer below: (=^・^=)");
 
 do
 {
