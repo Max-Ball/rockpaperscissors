@@ -1,0 +1,15 @@
+C:\Users\Max\source\codeworks\summer2022\rockpaperscissors\rockpaperscissors\bin\Debug\net6.0\rockpaperscissors.exe
+C:\Users\Max\source\codeworks\summer2022\rockpaperscissors\rockpaperscissors\bin\Debug\net6.0\rockpaperscissors.deps.json
+C:\Users\Max\source\codeworks\summer2022\rockpaperscissors\rockpaperscissors\bin\Debug\net6.0\rockpaperscissors.runtimeconfig.json
+C:\Users\Max\source\codeworks\summer2022\rockpaperscissors\rockpaperscissors\bin\Debug\net6.0\rockpaperscissors.dll
+C:\Users\Max\source\codeworks\summer2022\rockpaperscissors\rockpaperscissors\bin\Debug\net6.0\rockpaperscissors.pdb
+C:\Users\Max\source\codeworks\summer2022\rockpaperscissors\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.csproj.AssemblyReference.cache
+C:\Users\Max\source\codeworks\summer2022\rockpaperscissors\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\source\codeworks\summer2022\rockpaperscissors\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.AssemblyInfoInputs.cache
+C:\Users\Max\source\codeworks\summer2022\rockpaperscissors\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.AssemblyInfo.cs
+C:\Users\Max\source\codeworks\summer2022\rockpaperscissors\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\codeworks\summer2022\rockpaperscissors\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.dll
+C:\Users\Max\source\codeworks\summer2022\rockpaperscissors\rockpaperscissors\obj\Debug\net6.0\refint\rockpaperscissors.dll
+C:\Users\Max\source\codeworks\summer2022\rockpaperscissors\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.pdb
+C:\Users\Max\source\codeworks\summer2022\rockpaperscissors\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.genruntimeconfig.cache
+C:\Users\Max\source\codeworks\summer2022\rockpaperscissors\rockpaperscissors\obj\Debug\net6.0\ref\rockpaperscissors.dll
